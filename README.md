@@ -26,6 +26,9 @@ This account is primarily utilized for recording the code of my course at SUSTec
 - [【Algorithm】CS208 2023 Spring - Lab](https://github.com/OctCarp/SUSTech_CS208-Algorithm_2023s_Works)
 - [【AI】CS303 2023 Fall - Lab](https://github.com/OctCarp/SUSTech_CS303-AI_2023f_Works)
 - [【C/C++】CS205 2023 Fall - Midterm & Lab](https://github.com/OctCarp/SUSTech_CS205-CPP_2023f_Works)
+- [【Deep Learning】CS324 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_CS324-Deep-Learning_2024s_Works)
+- [【OS】CS302 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_CS302-OS_2024s_Works)
+- [【MATLAB】ME112 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_ME112-MATLAB_2024s_Works)
 - [【Other】Miscellaneous](https://github.com/OctCarp/SUSTech_CS-Course_MISC)
 
 I'd like to have a work-life balance (though I don't really have it). So, I've usually only focused on meeting the requirements that contribute to the grade.
@@ -33,3 +36,4 @@ I'd like to have a work-life balance (though I don't really have it). So, I've u
 I hope to engage in some interesting additional exploration or extension in my leisure time.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=OctCarp&show_icons=true&rank_icon=github&count_private=true&hide_rank=true&theme=graywhite)](https://github.com/OctCarp) 
+
