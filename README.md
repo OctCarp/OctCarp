@@ -10,12 +10,12 @@ This account is primarily utilized for recording the code of my course at SUSTec
 
 ###### Course Project Repositories:
 
-- [【Java1A - 国际象棋】CS102/109A Java: Chess ](https://github.com/OctCarp/SUSTech_CS102A-Java1A_2022s_Project-Chess)
+- [【Java1A - 国际象棋】CS102/109A Java: Chess ](https://github.com/OctCarp/SUSTech_CS102A-JavaA_S22_Proj-Chess)
 - [【数字逻辑 - 小车】CS207 DD: "A Real Car"](https://github.com/OctCarp/SUSTech_CS207-DD_2022f_Project-a-real-car)
 - [【计组 - 单周期 CPU】CS202 Organization: Single Cycle CPU](https://github.com/OctCarp/SUSTech_CS202-Organization_2023s_Project-CPU)
 - [【数据库 - 论坛】CS307 DB: Forum Database](https://github.com/OctCarp/SUSTech_CS307-DB_2023s_Projects)
 - [【计网 - Ryu SDN】CS305 Network: Ryu Controller SDN](https://github.com/OctCarp/SUSTech_CS305-Network_2023s_Project-Ryu)
-- [【OOAD - 宿舍选择】 CS309 OOAD: Dormitory Selection](https://github.com/OctCarp/SUSTech_CS309-OOAD_F23_Project-Dorm-Select)
+- [【OOAD - 宿舍选择】 CS309 OOAD: Dormitory Selection](https://github.com/OctCarp/SUSTech_CS309-OOAD_F23_Proj-Dorm-Select)
 - [【嵌入式 - “智能手表”】CS301 Embedded Syst.: "Smart Watch"](https://github.com/Mark4551124015/SUSTech_CS301_Project)
 - [【C++ - 递归推箱】CS205 C/C++: Recurse Box](https://github.com/SUSTech-CPP-Recurse-Box/Sokoban)
 
@@ -35,5 +35,23 @@ I'd like to have a work-life balance (though I don't really have it). So, I've u
 
 I hope to engage in some interesting additional exploration or extension in my leisure time.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=OctCarp&show_icons=true&rank_icon=github&count_private=true&hide_rank=true&theme=graywhite)](https://github.com/OctCarp) 
+<div align="left">
+  <picture style="margin-right: 0.5rem;">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=OctCarp&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=OctCarp&show_icons=true&count_private=true&hide_rank=true&hide_border=false&theme=graywhite"
+      alt="GitHub Stats" />
+  </picture>
+  <picture style="margin-left: 0.5rem;">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OctCarp&layout=compact&hide=tex&langs_count=8&hide_progress=true&size_weight=0.5&count_weight=0.5&hide_border=true&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctCarp&layout=compact&hide=tex&langs_count=8&hide_progress=true&size_weight=0.5&count_weight=0.5&hide_border=false&theme=graywhite"
+      alt="Top Languages" />
+  </picture>
+</div>
+
 
