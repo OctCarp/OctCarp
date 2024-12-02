@@ -8,7 +8,10 @@ This account is primarily utilized for recording the code of my course at SUSTec
 
 #### Almost all my course projects are available on GitHub. Welcome to star⭐~
 
-###### Course Project Repositories:
+<details>
+<summary>📦 Course Repo </summary>
+
+Course Project Repositories:
 
 - [【Java1A - 国际象棋】CS102/109A Java: Chess ](https://github.com/OctCarp/SUSTech_CS102A-JavaA_S22_Proj-Chess)
 - [【数字逻辑 - 小车】CS207 DD: "A Real Car"](https://github.com/OctCarp/SUSTech_CS207-DD_2022f_Project-a-real-car)
@@ -19,7 +22,7 @@ This account is primarily utilized for recording the code of my course at SUSTec
 - [【嵌入式 - “智能手表”】CS301 Embedded Syst.: "Smart Watch"](https://github.com/Mark4551124015/SUSTech_CS301_Project)
 - [【C++ - 递归推箱】CS205 C/C++: Recurse Box](https://github.com/SUSTech-CPP-Recurse-Box/Sokoban)
 
-###### Course Assignment Repositories:
+Course Assignment Repositories:
 
 - [【JavaA】CS102/109A 2022 Spring - Assignment](https://github.com/OctCarp/SUSTech_CS102A-JavaA_S22_Works)
 - [【DSAA】CS203 2022 Fall - Lab](https://github.com/OctCarp/SUSTech_CS203-DSAA_F22_Works)
@@ -34,6 +37,9 @@ This account is primarily utilized for recording the code of my course at SUSTec
 I'd like to have a work-life balance (though I don't really have it). So, I've usually only focused on meeting the requirements that contribute to the grade.
 
 I hope to engage in some interesting additional exploration or extension in my leisure time.
+
+</details>
+
 
 <div align="left">
   <picture style="margin-right: 0.5rem;">
