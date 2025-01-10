@@ -21,6 +21,7 @@ Course Project Repositories:
 - [【OOAD - 宿舍选择】 CS309 OOAD: Dormitory Selection](https://github.com/OctCarp/SUSTech_CS309-OOAD_F23_Proj-Dorm-Select)
 - [【嵌入式 - “智能手表”】CS301 Embedded Syst.: "Smart Watch"](https://github.com/Mark4551124015/SUSTech_CS301_Project)
 - [【C++ - 递归推箱】CS205 C/C++: Recurse Box](https://github.com/SUSTech-CPP-Recurse-Box/Sokoban)
+- [【Java2 - 爬虫与可视化】 CS209A Java2: Data Crawling & Visualization ](https://github.com/OctCarp/SUSTech_CS209A-Java2_F24_Proj)
 
 Course Assignment Repositories:
 
@@ -32,6 +33,8 @@ Course Assignment Repositories:
 - [【Deep Learning】CS324 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_CS324-Deep-Learning_S24_Works)
 - [【OS】CS302 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_CS302-OS_S24_Works)
 - [【MATLAB】ME112 2024 Spring - Assignment](https://github.com/OctCarp/SUSTech_ME112-MATLAB_S24_Works)
+- [【Distributed】CS328 2024 Fall - Assignment](https://github.com/OctCarp/SUSTech_CS328-Distributed_F24_Works)
+- [【Java2】CS209A 2024 Fall - Assignment & Lab](https://github.com/OctCarp/SUSTech_CS209A-Java2_F24_Works)
 - [【Other】Miscellaneous](https://github.com/OctCarp/SUSTech_CS-Course_MISC)
 
 I'd like to have a work-life balance (though I don't really have it). So, I've usually only focused on meeting the requirements that contribute to the grade.
