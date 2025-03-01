@@ -4,7 +4,8 @@
 
 #### Undergraduate of [@SUSTech](https://www.sustech.edu.cn/en/), 2021 batch
 
-This account is primarily utilized for recording the code of my course at SUSTech. 
+This account is primarily used to record the code for my courses at SUSTech.
+Additionally, check out [my course organization](https://github.com/octcarp-course) for more.
 
 #### Almost all my course projects are available on GitHub. Welcome to star⭐~
 
