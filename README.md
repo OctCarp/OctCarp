@@ -1,4 +1,4 @@
-<img src="img/UnhappyRefrainCover.png" width="400px" alt="Unhappy Refrain - Album Cover">
+<img align="right" src="img/UnhappyRefrainCover.png" width="300px" alt="Unhappy Refrain - Album Cover">
 
 ### Hi there 👋
 
